@@ -2,16 +2,17 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		date: "7 August 2023",
+		title: "Demystifying WebAssembly: The Future of Web Development",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"As we navigate through the continually evolving landscape of web development, a new player emerges from the shadows — WebAssembly (Wasm). ",
 		keywords: [
 			"The Benefits of Cloud Computing",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Aryaman",
+			"Aryaman Sinha",
+			
 		],
+		href:"https://medium.com/@aryamansi17/demystifying-webassembly-the-future-of-web-development-6725097ebf3d",
 		style: `
 				.article-content {
 					display: flex;
@@ -41,16 +42,13 @@ function article_1() {
 
 function article_2() {
 	return {
-		date: "7 May 2023",
-		title: "Artificial Intelligence in Healthcare",
+		date: "18 July 2023",
+		title: "The Future of Web Development: Progressive Web Apps (PWAs) and their Impact",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"In the ever-evolving landscape of technology, web development has been a constant area of growth and innovation.",
 		style: ``,
 		keywords: [
-			"Artificial Intelligence in Healthcare",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			
 		],
 		body: (
 			<React.Fragment>

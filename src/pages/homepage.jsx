@@ -134,16 +134,7 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
-							<a
-								href={INFO.socials.stackoverflow}
-								target="_blank"
-								rel="noreferrer"
-							>
-								<FontAwesomeIcon
-									icon={faStackOverflow}
-									className="homepage-social-icon"
-								/>
-							</a>
+							
 							<a
 								href={INFO.socials.instagram}
 								target="_blank"
@@ -182,7 +173,8 @@ const Homepage = () => {
 											date={article().date}
 											title={article().title}
 											description={article().description}
-											link={"/article/" + (index + 1)}
+											href={article().href}
+											link={"https://medium.com/@aryamansi17/demystifying-webassembly-the-future-of-web-development-6725097ebf3d"}
 										/>
 									</div>
 								))}
