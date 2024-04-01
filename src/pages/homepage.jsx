@@ -7,7 +7,7 @@ import {
 	faTwitter,
 	faGithub,
 	faStackOverflow,
-	faInstagram,
+	faInstagram,faOpenid
 } from "@fortawesome/free-brands-svg-icons";
 
 import Logo from "../components/common/logo";
@@ -154,6 +154,13 @@ const Homepage = () => {
 									icon={faMailBulk}
 									className="homepage-social-icon"
 								/>
+							</a>
+							<a
+								href={`mailto:${INFO.main.email}`}
+								target="_blank"
+								rel="noreferrer"
+							>
+							 View Resume
 							</a>
 						</div>
 
