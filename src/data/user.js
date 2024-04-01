@@ -51,15 +51,6 @@ const INFO = {
 		},
 
 		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
 			title: "FaceAPI - JS API use",
 			description:
 				"A React project leveraging FaceAPI.js to analyze and interpret facial expressions, enabling real-time emotion detection and facial attribute recognition in web applications.",
