@@ -33,21 +33,21 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "GlobalMed Academy",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"GlobalMedAcademy is a healthcare EdTech company.",
+			logo: "https://www.globalmedacademy.com/assets/images/logo/logo1.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "www.globalmedacademy.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "SnapSutra - AI Summariser Tool",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"A React-based project that aggregates and summarizes articles from various sources, providing users with concise insights from diverse sources at a glance.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/AryamanSi17/SnapSutra",
 		},
 
 		{
@@ -60,22 +60,22 @@ const INFO = {
 		},
 
 		{
-			title: "Project 4",
+			title: "FaceAPI - JS API use",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A React project leveraging FaceAPI.js to analyze and interpret facial expressions, enabling real-time emotion detection and facial attribute recognition in web applications.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/AryamanSi17/Face-APIJS",
 		},
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "Project 5",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 	],
 };
 
