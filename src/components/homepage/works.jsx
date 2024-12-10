@@ -36,7 +36,19 @@ const Works = () => {
 							<div className="work-subtitle">
 								Web Administrator
 							</div>
-							<div className="work-duration">2023 - Present</div>
+							<div className="work-duration">March 2023 - Dec 2024</div>
+						</div>
+						<div className="work">
+							<img
+								src="./codebugged_logo.png"
+								alt="codebugged"
+								className="work-image"
+							/>
+							<div className="work-title">Codebugged</div>
+							<div className="work-subtitle">
+								Web Developer Intern
+							</div>
+							<div className="work-duration">Jan 2023 - March 2023</div>
 						</div>
 					</div>
 				}

@@ -156,7 +156,7 @@ const Homepage = () => {
 								/>
 							</a>
 							<a
-								href={`mailto:${INFO.main.email}`}
+								href="https://drive.google.com/file/d/1mDvDABAA-ZtHP6rT2j9Zbrio6jEqOd4m/view?usp=drive_link"
 								target="_blank"
 								rel="noreferrer"
 							>

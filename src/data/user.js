@@ -2,7 +2,7 @@ const INFO = {
 	main: {
 		title: "Aryaman's Portfolio",
 		name: "Aryaman Sinha",
-		email: "mail@aryamansi17@gmail.com",
+		email: "mail@aryamansi1712@gmail.com",
 		logo: "../logo.png",
 	},
 
@@ -58,6 +58,15 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/AryamanSi17/Face-APIJS",
 		},
+		{
+			title: "Rufus - Web Hiring Management Portal",  
+description:  
+    "A React project designed to streamline the hiring process by managing job postings, applications, and interview scheduling. Rufus simplifies recruitment with a user-friendly interface and efficient workflow management.",  
+logo: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",  
+linkText: "View Project",  
+link: "https://github.com/AryamanSi17/Rufus_Web_Hiring_Platform",  
+
+		}
 
 		// {
 		// 	title: "Project 5",
