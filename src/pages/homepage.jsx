@@ -104,7 +104,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src="portfoliologo.jpg"
 											alt="about"
 											className="homepage-image"
 										/>
@@ -156,7 +156,7 @@ const Homepage = () => {
 								/>
 							</a>
 							<a
-								href="https://drive.google.com/file/d/1mDvDABAA-ZtHP6rT2j9Zbrio6jEqOd4m/view?usp=drive_link"
+								href="https://drive.google.com/file/d/1QfdSBrXY25D6FghkGOAh5vMgcIlQNztF/view?usp=sharing"
 								target="_blank"
 								rel="noreferrer"
 							>

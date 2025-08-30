@@ -15,17 +15,29 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./twitter.png"
+								src="./codebugged_logo.png"
 								alt="Rath Research"
 								className="work-image"
 							/>
-							<div className="work-title">Rath Research</div>
+							<div className="work-title">CODEBUGGED AI</div>
 							<div className="work-subtitle">
-								Associate Researcher
+								Software Developer
 							</div>
-							<div className="work-duration">2024 - Present</div>
+							<div className="work-duration">March 2025 - Present</div>
 						</div>
-
+                        
+						<div className="work">
+							<img
+								src="./nxtjobai.jpg"
+								alt="NxtJobAI"
+								className="work-image"
+							/>
+							<div className="work-title">NxtJobAI</div>
+							<div className="work-subtitle">
+								Software Developer
+							</div>
+							<div className="work-duration">Jan 2025 - Feb 2025</div>
+						</div>
 						<div className="work">
 							<img
 								src="./globalmed.png"
@@ -34,21 +46,21 @@ const Works = () => {
 							/>
 							<div className="work-title">GlobalMed Academy</div>
 							<div className="work-subtitle">
-								Web Administrator
+								Full Stack Developer
 							</div>
 							<div className="work-duration">March 2023 - Dec 2024</div>
 						</div>
 						<div className="work">
 							<img
-								src="./codebugged_logo.png"
-								alt="codebugged"
+								src="./freelancing.png"
+								alt="freelancing"
 								className="work-image"
 							/>
-							<div className="work-title">Codebugged</div>
+							<div className="work-title">Freelancing</div>
 							<div className="work-subtitle">
-								Web Developer Intern
+								Developer
 							</div>
-							<div className="work-duration">Jan 2023 - March 2023</div>
+							<div className="work-duration">Jan 2023 - Present</div>
 						</div>
 					</div>
 				}
