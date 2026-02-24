@@ -2,7 +2,7 @@ const INFO = {
 	main: {
 		title: "Aryaman's Portfolio",
 		name: "Aryaman Sinha",
-		email: "mail@aryaman.remote@gmail.com",
+		email: "aryaman@vanco.ai",
 		logo: "../logo.png",
 	},
 
@@ -13,9 +13,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-Stack Developer with expertise in Generative AI",
+		title: "Full Stack AI Developer",
 		description:
-			"Backend Developer with expertise in Node.js, LangChain, LangGraph, n8n automation, and CrewAI. Skilled in building scalable, secure, and reliable applications while writing clean, high-quality code. Passionate about solving complex problems and continuous learning.",
+			"Full Stack AI Developer with expertise in React.js, Node.js, LangChain, LangGraph, n8n automation, and CrewAI. Skilled in building scalable, secure, and reliable applications while writing clean, high-quality code. Passionate about solving complex problems and continuous learning.",
 	},
 
 	about: {
@@ -31,6 +31,14 @@ const INFO = {
 	},
 
 	projects: [
+		{
+			title: "Nano Prompts",
+			description:
+				"The world's best prompt library. Discover 10,000+ curated AI prompt presets for Gemini, Nano Banana Pro, and GPT. Free templates for stunning image creation.",
+			logo: "https://nanoprompts.space/favicon.ico",
+			linkText: "View Project",
+			link: "https://nanoprompts.space/",
+		},
 		{
 			title: "GlobalMed Academy",
 			description:

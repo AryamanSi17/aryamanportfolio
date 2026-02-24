@@ -7,7 +7,7 @@ import {
 	faTwitter,
 	faGithub,
 	faStackOverflow,
-	faInstagram,faOpenid
+	faInstagram, faOpenid
 } from "@fortawesome/free-brands-svg-icons";
 
 import Logo from "../components/common/logo";
@@ -104,8 +104,8 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="portfoliologo.jpg"
-											alt="about"
+											src="portfolio-profile-pic.png"
+											alt="aryaman-sinha profile pic"
 											className="homepage-image"
 										/>
 									</div>
@@ -134,7 +134,7 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
-							
+
 							<a
 								href={INFO.socials.instagram}
 								target="_blank"
@@ -156,11 +156,11 @@ const Homepage = () => {
 								/>
 							</a>
 							<a
-								href="https://drive.google.com/file/d/1QfdSBrXY25D6FghkGOAh5vMgcIlQNztF/view?usp=sharing"
+								href="https://drive.google.com/file/d/1fH_4N7HXWHc9unZiz76tE4vYcbVO0iEF/view?usp=sharing"
 								target="_blank"
 								rel="noreferrer"
 							>
-							 View Resume
+								View Resume
 							</a>
 						</div>
 

@@ -1,4 +1,5 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBriefcase } from "@fortawesome/free-solid-svg-icons";
 
 import Card from "../common/card";
@@ -14,53 +15,35 @@ const Works = () => {
 				body={
 					<div className="works-body">
 						<div className="work">
-							<img
-								src="./codebugged_logo.png"
-								alt="Rath Research"
-								className="work-image"
-							/>
-							<div className="work-title">CODEBUGGED AI</div>
+							<div className="work-image">
+								<FontAwesomeIcon icon={faBriefcase} />
+							</div>
+							<div className="work-title">VANCO (formerly CODEBUGGED)</div>
 							<div className="work-subtitle">
-								Software Developer
+								AI Application Engineer
 							</div>
 							<div className="work-duration">March 2025 - Present</div>
 						</div>
-                        
+
 						<div className="work">
-							<img
-								src="./nxtjobai.jpg"
-								alt="NxtJobAI"
-								className="work-image"
-							/>
-							<div className="work-title">NxtJobAI</div>
-							<div className="work-subtitle">
-								Software Developer
+							<div className="work-image">
+								<FontAwesomeIcon icon={faBriefcase} />
 							</div>
-							<div className="work-duration">Jan 2025 - Feb 2025</div>
+							<div className="work-title">SMPP Limited</div>
+							<div className="work-subtitle">
+								Full Stack Developer
+							</div>
+							<div className="work-duration">June 2024 - Feb 2025</div>
 						</div>
 						<div className="work">
-							<img
-								src="./globalmed.png"
-								alt="globalmed academy"
-								className="work-image"
-							/>
+							<div className="work-image">
+								<FontAwesomeIcon icon={faBriefcase} />
+							</div>
 							<div className="work-title">GlobalMed Academy</div>
 							<div className="work-subtitle">
 								Full Stack Developer
 							</div>
-							<div className="work-duration">March 2023 - Dec 2024</div>
-						</div>
-						<div className="work">
-							<img
-								src="./freelancing.png"
-								alt="freelancing"
-								className="work-image"
-							/>
-							<div className="work-title">Freelancing</div>
-							<div className="work-subtitle">
-								Developer
-							</div>
-							<div className="work-duration">Jan 2023 - Present</div>
+							<div className="work-duration">March 2023 - May 2024</div>
 						</div>
 					</div>
 				}
